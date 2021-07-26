@@ -1,0 +1,1 @@
+Derivaion of the formulas to calculate minimum mass, mass function and projected semimajor axis from Radial Velocity (RV) curves of Spectroscopic Binary (SB) Stars.
