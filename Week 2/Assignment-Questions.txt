@@ -1,0 +1,8 @@
+1. Theoretical Assignment -
+    Derive the formulas to calculate minimum mass, mass function and projected semimajor axis from Radial Velocity (RV) curves of Spectroscopic Binary (SB) Stars. 
+
+2. Programming Assignment -
+     Model SB star system and plot RV curves and orbit of the system. Target systems - Alpha Centauri, Mizar, or any famous SB star system.
+
+3. Proposal - 
+    Submit a proposal stating your goals for this project and what would you want to achieve by the end of 2 months. You can propose anything you want as far as it is related to the topic. For ex. literature review, animations and simulations, fitting a real dataset, various EB modelling package/fitting techniques comparison, creating your own python package relating to EBs, etc. 
